@@ -1,0 +1,6 @@
+github.com/cactus/gostrftime v1.0.2 h1:viSnB9JUQm3OQmIgv7xZkHeUIv4g/1jIToLW3XD0LBk=
+github.com/google/go-cmp v0.5.7 h1:81/ik6ipDQS2aGcBfIN5dHDB36BwrStyeAQquSYCV4o=
+github.com/orfjackal/nanospec.go v0.0.0-20120727230329-de4694c1d701 h1:yOXfzNV7qkZ3nf2NPqy4BMzlCmnQzIEbI1vuqKb2FkQ=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/rafrombrc/gospec v0.0.0-20121213232506-2e46585948f4 h1:qiLQC0iWJeDTGyquNnRrVyfSwUG2jyxI5CV/cU+F1UE=
+gotest.tools/v3 v3.0.3 h1:4AuOwCGf4lLR9u3YOe2awrHygurzhO/HeQ6laiA6Sx0=
